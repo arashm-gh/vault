@@ -11,7 +11,7 @@ $y = f(x)$
 ## Definitions of Functions
 
 Set builder notation -> Used to describe infinite/finite sets.  
-{x | x and some condition}  
+${x | x$ and some condition$}$  
 For example:  
 ${x^2 | x > 0}$  
 
