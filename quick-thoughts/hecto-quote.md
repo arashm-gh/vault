@@ -1,0 +1,3 @@
+# Hecto (Text editor in Rust) Quote from code 
+
+*For some, like German speakers, that might ring a bell because it's similar to a common German saying. Others might express it differently, like "killing two rabbits with one stick blow" in Portuguese. But for those not familiar with these sayings, it might take a bit of explaining. In English, we usually say "To kill two birds with one stone," emphasizing the importance of using expressions that everyone understands. While non-idiomatic phrases can still get the point across, they often lead to unnecessary focus on the wording rather than the message itself.*
