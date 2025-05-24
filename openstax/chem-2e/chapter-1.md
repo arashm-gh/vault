@@ -8,12 +8,14 @@
 
 1. Testing $\to$ Constant Observation $\to$ "Law".
 2. Testing $\to$ Hypothisis Supported $\to$ "Theory", e.g: Kinetic Particle Theory.
-3. Microscopic Domain $\to$ Smol.
-4. Macroscopic Domain $\to$ Normal sized.
-5. Symbolic Domain $\to$ Language used in chemisty to indicate parts of the microscopic and macroscopic domain, e.g: H$_{2}$O($l$).
+3. Microscopic Domain $\coloneqq$ Smol.
+4. Macroscopic Domain $\coloneqq$ Normal sized.
+5. Symbolic Domain $\coloneqq$ Language used in chemisty to indicate parts of the microscopic and macroscopic domain, e.g: H$_{2}$O($l$).
 
 ### 1.2 Phases and Classification of Matter
 
-1. Matter $\thickapprox$ Anything that occupies space and has mass $\thickapprox$ Volume and Mass.
-2. ($s$)($l$)($g$) $\approx$ (solid)(liquid)(gas) $\to$ Most common forms of Matter on earth.
-3. Mass $\approx$ amount of matter $\to$  $\approx$ measure of inertia $\to$ amount of force taken to accelerate object. 
+1. Matter $\coloneqq$ Anything that occupies space and has mass $\equiv$ Volume and Mass.
+2. ($s$)($l$)($g$) $\coloneqq$ (solid)(liquid)(gas) $\to$ Most common forms of Matter on earth.
+3. Mass $\coloneqq$
+   1. Amount of matter $\to$ compare its mass with a standard mass.
+   2. Measure of Inertia, Inertia $\coloneqq$ amount of force taken to accelerate object.
