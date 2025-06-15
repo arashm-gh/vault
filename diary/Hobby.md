@@ -1,0 +1,4 @@
+#Diary #Topics
+As a kid, I loved [[Reading]] and [[Programming]]. I wasn't a big fan of [[Movies/Films]] or [[TV Shows]] or [[Cooking]] or [[Drawing]] or even [[Painting]] but I would partake in these other activities semi-regularly out of boredom.
+Now that I'm a lot older, I realize I did enjoy all of those activities and that I enjoy both [[Consuming]] and [[Creating]] [[Art]] as well as [[Engineering]].
+More recently (Thanks to [[The Missus]]) I've become a fan of [[Literature]] as well as [[Movies/Films]] and [[Music]]! [[Game Development]] still remains one of my greater past times, but I also enjoy playing [[Games]] more now! Which is nice.

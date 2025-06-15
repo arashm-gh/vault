@@ -1,0 +1,3 @@
+#Diary
+I feel like using [[Rust]] to create good terminal applications or at least learning how to use TUI crates like [Crossterm](https://docs.rs/crossterm/latest/crossterm/) and [Ratatui](https://ratatui.rs/) is a great idea for the next couple of days.
+I suppose to get started I shall check out the [[Crossterm]] and [[Ratatui]] docs and continue from there. The [Ratatui docs](https://ratatui.rs/tutorials/hello-ratatui/) already look preeetttttyyy cool!

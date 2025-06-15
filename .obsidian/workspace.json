@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8443fb836a74a59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5b35ee566f2c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa89e1720c4943c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/TUIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TUIs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5692e0da49aad274",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f979633b3af927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e2dc219c3824bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "768131f78587b5f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "555828c616af14d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04556ac5df7e6e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5848009e23f0ea41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "351139788993dc87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bfb3c0d358165d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "acb8e8330b783317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c861175688e3eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "418f5b80ebdae452",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa89e1720c4943c2",
+  "lastOpenFiles": [
+    "diary/The Missus.md",
+    "diary/Signal Messenger won't work on my Phone!.md",
+    "diary/Rust Game Development.md",
+    "diary/Online Chess Game.md",
+    "diary/Minecraft's Terrain Generation.md",
+    "diary/List of gifts for GF.md",
+    "diary/Hyprland Catppuncci.md",
+    "diary/Hobby.md",
+    "diary/Hecto (Text editor in Rust) Quote from code.md",
+    "diary/Game Engines.md",
+    "diary/Game Dev Problems.md",
+    "diary/All Men are Moral.md",
+    "diary/A Level Physics - Section D.md",
+    "diary/2D Isometric Terrain Generation in Godot 4.3 (with TilemapLayers).md",
+    "people/Bertrand Russel.md",
+    "people/Nietzsche.md",
+    "learning/The International Phonetic Alphabet (English).md",
+    "diary/Switching to Obsidian.md",
+    "topics/Nonfiction.md",
+    "learning/openstax/Formatting for Notes.md",
+    "topics/Plugins (Obsidian).md",
+    "topics/Obsidian (App).md",
+    "topics/Game Development.md",
+    "topics/Electron (Framework).md",
+    "people/personal/Hashim (Brother).md",
+    "people/personal/Zoyah Imran.md",
+    "people/personal",
+    "inbox",
+    "people",
+    "topics",
+    "learning/other",
+    "learning/wikipedia",
+    "other",
+    "learning",
+    "diary"
+  ]
+}
