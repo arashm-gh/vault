@@ -1,4 +1,4 @@
-./diary/Online Chess Game.md
-./people/personal/*
-./inbox/*
-./.obsidian
+people/personal/*
+diary/*
+.obsidian
+lectures/*
