@@ -3,5 +3,5 @@ Here I'm going to make a nice and simple list of gifts I could give to [[The Mis
 - [x] [[Friendship Bracelet]]
 - [x] [[Piracy]] Application with better UI
 - [x] Cup carved out of soap
-- [ ] [[Game]] made for just us with references to stuff we did together
+- [ ] [[Video Game]] made for just us with references to stuff we did together
 - [ ] Literary reference app (?)

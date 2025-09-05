@@ -1,7 +1,7 @@
  #Diary
 So turns out, [[Rust]] [[Game Development]] is actually kinda cool!
 I just don't know rust well enough to be able to write useful code, like UI and stuff.
-Which means I will have to learn it again. The [No Boilerplate](http://www.youtube.com/@NoBoilerplate) guy said he attempted to get into it like thrice before he understood what he was learning or doing, so something like that might apply here. I'm not particularly good at [[Computer Science]] stuff, it's more of a [[Hobby]] than an obsession, although there are times when I can't control my excitement for some topics.
+Which means I will have to learn it again. The [No Boilerplate](http://www.youtube.com/@NoBoilerplate) guy said he attempted to get into it like thrice before he understood what he was learning or doing, so something like that might apply here. I'm not particularly good at [[Computer Science]] stuff, it's more of a hobby than an obsession, although there are times when I can't control my excitement for some topics.
 I've put a lot of effort into [[Python]] but it's libraries and their specifications are much harder to get into than the language itself for me. At least from what I've seen, [[Rust]] does this better which it's built in standardization for code.
 Also people keep saying that rust is ugly as fuck but like I disagree, [[C++]] is ugly as fuck:
 `

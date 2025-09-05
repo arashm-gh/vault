@@ -1,8 +1,7 @@
 #Diary
 So! With [[Godot]] I've managed to do a lot surprisingly :3
-The following uses a custom rule-set and [[2D Perlin Noise]] to generate terrain:
-![img](../images/godot_terrain_gen.jpeg)
-But this lacks the vision I have for the game itself.
+The following uses a custom rule-set and [[2D Perlin Noise]] to generate terrain.
+But this lacks the vision I have for the [[Video Game]] itself.
 I'd like to make a terrain generator that can be used as the foundation
 for the other projects I end up making, which means it has to be something
 That can compete with the stuff even something as complex as [[Minecraft]] has

@@ -1,3 +1,4 @@
+#Diary 
 Yesterday I went to Readings with [[Hashim (Brother)]] and found some cool books to read:
 1. [[A Clockwork Orange]] by [[Anthony Burgess]]
 2. [[The Great Gatsby]] by [[F. Scott Fitzgerald]]
