@@ -1,5 +1,6 @@
 [
-  "obsidian-languagetool-plugin",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "theme-picker",
+  "obsidian-icon-folder"
 ]
