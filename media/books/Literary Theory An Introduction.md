@@ -1,5 +1,6 @@
 #Media #Literature 
 - Book by [[Terry Eagleton]]
+## Introduction
 - "Art as Device" by Viktor Shklovsky
 - > *This book sets out to provide a reasonably comprehensive account of modern literary theory for those with little or no previous knowledge of the topic.*
 - What is *Literature*?
@@ -24,4 +25,8 @@
 - > *...one can think of literature less as some inherent quality or set of qualities displayed by certain kinds of writing all the way from Beowulf to Virginia Woolf, than as a number of ways in which people relate themselves to writing.*
 - > *John M. Ellis has argued that the term 'literature' operates rather like the word 'weed': weeds are not particular kinds of plant, but just any kind of plant which for some reason or another a gardener does not what around.*
 - > *As the philosophers might say, 'literature' and 'weed' are functional rather than ontological terms...*
+- > *Any belief that the study of literature is the study of a stable, well-definable entity, as entomology is the study of insects, can be abandoned as a chimera.*
+- > *What we have uncovered so far, then, is not only that literature does not exist in the sense that insects do, and that the value-judgements by which it is constituted are historically variable, but that these value-judgements themselves have a close relation to social ideologies.*
+## The Rise of English
+- > *writing which embodied thevalues and 'tastes' of a particular social class qualified as literature, whereas a street ballad, a popular romance and perhaps even the drama did not.*
 - 
