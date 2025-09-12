@@ -3,4 +3,5 @@
 > Format for them is going to be: `{Title} ({Date Released}) - {Date Watched}`
 
 - [[Whiplash]] ([[2014]]) - [[12/Aug/2025]]
-- [[Marriage Story]] ([[2019]]) - [[!2/Aug/2025]]
+- [[Marriage Story]] ([[2019]]) - [[12/Aug/2025]]
+- [[The Nightmare Before Christmas]] ([[1993]]) - [[24/Aug/2025]]
