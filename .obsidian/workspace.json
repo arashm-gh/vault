@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c995ba759a2e1942",
+        "id": "8f6e72fa1ce509c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b7d06c441ff57efe",
+            "id": "fbb8eaa724c77ef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/CS101/CS101-4.md",
+                "file": "lectures/HM101/HM101-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS101-4"
+              "title": "HM101-4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04556ac5df7e6e3b",
@@ -193,47 +194,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b7d06c441ff57efe",
+  "active": "fbb8eaa724c77ef2",
   "lastOpenFiles": [
+    "images/Pasted image 20250912081055.png",
+    "lectures/HM101/HM101-4.md",
+    "Pasted image 20250912081412.png",
+    "Pasted image 20250912081107.png",
+    "lectures/HM101/HM101-3.md",
+    "lectures/MM101/MM101-4.md",
     "lectures/MT101/MT101-5.md",
-    "lectures/CS101/CS101-4.md",
+    "lectures/MT101/MT101-6.md",
+    "images/Pasted image 20250911131559.png",
+    "Untitled 1.base",
+    "images",
+    "learning/Formatting for Notes.md",
+    "learning/material_science/Material Science.md",
+    "Untitled 2.base",
+    "images/Pasted image 20250911130911.png",
+    "images/Pasted image 20250911130256.png",
+    "images/Pasted image 20250911123839.png",
     "lectures/MM101/MM101-3.md",
+    "images/Pasted image 20250911123550.png",
+    "lectures/CH101/CH101-4.md",
+    "lectures/CH101/CH101-3.md",
+    "learning/chemistry/Chemistry.md",
+    "Untitled.base",
+    "learning/mathematics/Mathematics.md",
+    "lectures/CS101/CS101-4.md",
+    "lectures/CS101/CS101-3.md",
     "lectures/MM101/MM101-2.md",
     "lectures/CH161/CH161-2.md",
     "lectures/CH161/CH161-1.md",
-    "lectures/HM101/HM101-3.md",
     "lectures/MT101/MT101-4.md",
-    "learning/Formatting for Notes.md",
-    "lectures/CS101/CS101-3.md",
-    "Pasted image 20250909094220.png",
+    "images/Pasted image 20250909094220.png",
     "lectures/MM141/MM141-1.md",
     "lectures/Study Plan.md",
     "Untitled.canvas",
     "lectures/MM141",
     "lectures/IF101L/IF101-1.md",
-    "lectures/CH101/CH101-3.md",
     "lectures/IF101L",
-    "Pasted image 20250908093531.png",
-    "Pasted image 20250908093043.png",
-    "Untitled.base",
+    "images/Pasted image 20250908093531.png",
     "media/books/Literary Theory An Introduction.md",
     "lectures/MT101/MT101-1.md",
     "lectures/MT101/MT101-2.md",
     "lectures/MT101/MT101-3.md",
-    "learning/The International Phonetic Alphabet (English).md",
-    "learning/mathematics/Mathematics.md",
-    "README.md",
-    "media/books/Drawing for the Absolute Beginner.md",
-    "diary/TUIs.md",
-    "diary/The Missus.md",
-    "diary/Signal Messenger won't work on my Phone!.md",
-    "diary/Rust Game Development.md",
     "people/personal",
     "inbox",
     "people",
-    "topics",
-    "learning/other",
-    "learning/wikipedia",
-    "other"
+    "topics"
   ]
 }

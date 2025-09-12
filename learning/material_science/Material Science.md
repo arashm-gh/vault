@@ -1,0 +1,14 @@
+#### Introduction
+- Structural Scales of Materials:
+	- Subatomic $\coloneqq$ Involving electrons with individual atoms, their energies, and interactions the nuclei. 
+	- Atomic $\coloneqq$ Organization of atoms to yield molecules or crystals.
+	- Nano-structure $\coloneqq$ To do with Nanoparticles (less than $100nm$).
+	- Microstructure $\coloneqq$ Observable with a microscope ($>100nm$ and < $1mm$ ).
+	- Macro-structure $\coloneqq$ Elements than can be seen with the naked eye ($> 1mm$ to $\geq1m$).
+- Property of a material $\coloneqq$ material trait in terms of the kind and magnitude of response to a specific imposed stimulus.
+- Types of Properties:
+	- Mechanical $\coloneqq$ Relate deformation to an applied load or force (stiffness, strength, resistance, etc.)
+	- Electrical $\coloneqq$ Responses to applied electric fields (conductivity, dielectric constant, etc.)
+	- Thermal $\coloneqq$ Changes in temperature or temperature gradients across a material (thermal expansion, heat capacity, etc.)
+	- Magnetic $\coloneqq$ Responses to applied magnetic fields.
+	- Optical $\coloneqq$ Responses to electromagnetic or light radiation (refraction index, etc.)
