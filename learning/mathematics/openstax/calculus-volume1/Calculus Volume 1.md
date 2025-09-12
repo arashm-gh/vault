@@ -1,2 +1,0 @@
-#Mathematics 
-[[Calculus Volume 1 - Chapter 1]]
