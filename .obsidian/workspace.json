@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f6e72fa1ce509c6",
+        "id": "e5c6f3e188e06007",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb8eaa724c77ef2",
+            "id": "eeae48410c0f98e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "logs/Film Log.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Formation of Crystals in Materials - Textbook.png"
               },
-              "icon": "lucide-file",
-              "title": "Film Log"
+              "icon": "lucide-image",
+              "title": "Formation of Crystals in Materials - Textbook"
             }
           }
         ]
@@ -193,36 +191,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fbb8eaa724c77ef2",
+  "active": "eeae48410c0f98e0",
   "lastOpenFiles": [
+    "images/Types of Bonds in Materials - Textboko.png",
+    "images/Potential Energy of Bonds in Materials - Textbook.png",
+    "images/Atomic Bond Energy and Forces in Materials Chart - Textbook.png",
+    "images/Basic Flowchart - Self Made.png",
+    "images/Pasted image 20250908093531.png",
+    "images/Mass Spectrometer Diagram - Textbook.png",
+    "images/Formation of Grains in Materials - Textbook.png",
+    "images/Transmission Model of Communication Diagram - Wikipedia.png",
+    "images/SMCR Diagram - Wikipedia.png",
+    "logs/Film Log.md",
     "logs/Game Log.md",
     "logs/Reading Log.md",
     "logs/Music Log.md",
-    "logs/Film Log.md",
     "README.md",
     "learning/language/The International Phonetic Alphabet (English).md",
     "learning/language/The International Phonetic Alphabet (English) 1.md",
     "learning/literature/Nonfiction.md",
     "learning/literature/Nonfiction 1.md",
-    "images/Pasted image 20250912081412.png",
     "lectures/HM101/HM101-4.md",
-    "images/Pasted image 20250912081055.png",
     "Pasted image 20250912081107.png",
     "lectures/HM101/HM101-3.md",
     "lectures/MM101/MM101-4.md",
     "lectures/MT101/MT101-5.md",
     "lectures/MT101/MT101-6.md",
-    "images/Pasted image 20250911131559.png",
     "Untitled 1.base",
     "images",
     "learning/Formatting for Notes.md",
     "learning/material_science/Material Science.md",
     "Untitled 2.base",
-    "images/Pasted image 20250911130911.png",
-    "images/Pasted image 20250911130256.png",
-    "images/Pasted image 20250911123839.png",
+    "images/Formation of Crystals in Materials - Textbook.png",
     "lectures/MM101/MM101-3.md",
-    "images/Pasted image 20250911123550.png",
     "lectures/CH101/CH101-4.md",
     "lectures/CH101/CH101-3.md",
     "learning/chemistry/Chemistry.md",
@@ -232,12 +233,9 @@
     "lectures/CS101/CS101-3.md",
     "lectures/MM101/MM101-2.md",
     "lectures/CH161/CH161-2.md",
-    "lectures/CH161/CH161-1.md",
-    "images/Pasted image 20250909094220.png",
     "Untitled.canvas",
     "lectures/MM141",
     "lectures/IF101L",
-    "images/Pasted image 20250908093531.png",
     "people/personal",
     "inbox",
     "people",
