@@ -1,14 +1,43 @@
-#### Introduction
-- Structural Scales of Materials:
-	- Subatomic $\coloneqq$ Involving electrons with individual atoms, their energies, and interactions the nuclei. 
-	- Atomic $\coloneqq$ Organization of atoms to yield molecules or crystals.
-	- Nano-structure $\coloneqq$ To do with Nanoparticles (less than $100nm$).
-	- Microstructure $\coloneqq$ Observable with a microscope ($>100nm$ and < $1mm$ ).
-	- Macro-structure $\coloneqq$ Elements than can be seen with the naked eye ($> 1mm$ to $\geq1m$).
-- Property of a material $\coloneqq$ material trait in terms of the kind and magnitude of response to a specific imposed stimulus.
-- Types of Properties:
-	- Mechanical $\coloneqq$ Relate deformation to an applied load or force (stiffness, strength, resistance, etc.)
-	- Electrical $\coloneqq$ Responses to applied electric fields (conductivity, dielectric constant, etc.)
-	- Thermal $\coloneqq$ Changes in temperature or temperature gradients across a material (thermal expansion, heat capacity, etc.)
-	- Magnetic $\coloneqq$ Responses to applied magnetic fields.
-	- Optical $\coloneqq$ Responses to electromagnetic or light radiation (refraction index, etc.)
+#### 1.0 Introduction
+##### 1.1 Material Science and Engineering
+- Four Principals of Materials
+	- Structural Scales of Materials:
+		- Subatomic $\coloneqq$ Involving electrons with individual atoms, their energies, and interactions the nuclei. 
+		- Atomic $\coloneqq$ Organization of atoms to yield molecules or crystals.
+		- Nano-structure $\coloneqq$ To do with Nanoparticles (less than $100nm$).
+		- Microstructure $\coloneqq$ Observable with a microscope ($>100nm$ and < $1mm$ ).
+		- Macro-structure $\coloneqq$ Elements than can be seen with the naked eye ($> 1mm$ to $\geq1m$).
+	- Property of a material $\coloneqq$ material trait in terms of the kind and magnitude of response to a specific imposed stimulus.
+	- Types of Properties:
+		- Mechanical $\coloneqq$ Relate deformation to an applied load or force
+			- $\hookrightarrow$ stiffness, strength, resistance, etc.
+		- Electrical $\coloneqq$ Responses to applied electric fields 
+			- $\hookrightarrow$ conductivity, dielectric constant, etc.
+		- Thermal $\coloneqq$ Changes in temperature or temperature gradients across a material 
+			- $\hookrightarrow$ thermal expansion, heat capacity, etc.
+		- Magnetic $\coloneqq$ Responses to applied magnetic fields.
+		- Optical $\coloneqq$ Responses to electromagnetic or light radiation 
+			- $\hookrightarrow$ refraction index, etc.
+		- Deteriorative $\coloneqq$ Chemical reactivity of materials 
+			- $\hookrightarrow$ corrosive resistance, etc.
+	- Processing $\Rightarrow$ Affects structure of material.
+	- Performance of a Material $\coloneqq$ Function of its properties.
+- **Materials Paradigm $\coloneqq$ Processing $\Rightarrow$ Structure $\Rightarrow$ Properties $\Rightarrow$ Performance** $\Rightarrow$ Reuse/Recyclability.
+- > *". . . whenever a material is being created, developed, or produced, the properties or phenomena the material exhibits are of central concern. Experience shows that the properties and phenomena associated with a material are intimately related to its composition and structure at all levels, including which atoms are present and how the atoms are arranged in the material, and that this structure is the result of synthesis and processing.”*
+##### Classification of Materials
+- There are five categories:
+	- Metals:
+		- $\coloneqq$ Formed from one or more metallic element, and small quantities of non-metallic elements.
+		- $\rightsquigarrow$ Stiff, Strong, Ductile, Resistant to Fracture, Dense, Good Conductors, Not transparent, Desirable magnetic properties.
+	- Ceramics:
+		- $\coloneqq$ Compounds between metallic and nonmetallic elements.
+		- $\rightsquigarrow$ Stiff, Hard, Strong, Brittle, Highly susceptible to fracture, more resistant, typically insulative, range of optics.
+	- Polymers:
+		- $\coloneqq$ Compounds that are chemically based on carbon, hydrogen, and other nonmetallic elements.
+		- $\rightsquigarrow$ Low density, not stiff, not strong, extremely ductile, pliable, inert, insulative, nonmagnetic, decompose 
+	- Composites:
+		- $\coloneqq$
+		- $\rightsquigarrow$ 
+	- Advances Materials:
+		  - $\coloneqq$
+		- $\rightsquigarrow$ 

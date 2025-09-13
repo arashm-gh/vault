@@ -4,9 +4,10 @@
 1. A function $f$ $\coloneqq$ rule that assigns a unique element in set $Y$ to each element in set $D$. $f(x) \in Y$, $x \in D$.
 2. Domain $\coloneqq$ set of all possible input values for a function.
 3. Range $\coloneqq$ set of all possible output values as $x$ varies though every value in $D$.
-	   $\rightsquigarrow$ The domain and range of a function can be any sets of objects (e.g. functions, vectors, matrices, numbers, shapes, etc.), but usually in calculus they are real numbers.
+	   $\rightsquigarrow$ The domain and range of a function can be any sets of objects, but usually in calculus they are real numbers.
+	    Objects $\hookrightarrow$ functions, vectors, matrices, numbers, shapes, etc.
 4. When the range of a function is a set of real numbers, the function is said to be real-valued.
-5. Example:
+5. $\hookrightarrow$
 
 | Function        | Domain (x)                    | Range (y)                     |
 | --------------- | ----------------------------- | ----------------------------- |
@@ -17,12 +18,12 @@
 7. Cartesian plane $\to$ $\{ (x,f(x)) | x \in D \}$ or $\{ (x,y) | x \in D \}$
 8. *Vertical Line Test* $\to$ No vertical line can intersect the graph of a function more than once.
 9. Piecewise-Defined Functions $\coloneqq$ Using different formulas for different parts of the domain 
-	   $\rightsquigarrow$ e.g.: $|x| = \begin{cases} x, x \geq 0 \\ -x, x < 0 \end{cases}$
+	   $\hookrightarrow$ $|x| = \begin{cases} x, x \geq 0 \\ -x, x < 0 \end{cases}$
 10. Floor and Ceiling Functions:
 	1. Greatest Integer Function\Integer Floor Function $\coloneqq$ Rounds down regardless of decimal 
-		   $\rightsquigarrow$ e.g.: $\lfloor 2.6 \rfloor = 2$
+		   $\hookrightarrow$ $\lfloor 2.6 \rfloor = 2$
 	2. Least Integer Function\Integer Ceiling Function $\coloneqq$ Rounds up regardless of decimal 
-		   $\rightsquigarrow$ e.g.: $\lceil 0.2 \rceil = 1$.
+		  $\hookrightarrow$ $\lceil 0.2 \rceil = 1$.
 11. Increasing and Decreasing Functions
 	1. If $f(x_2) > f(x_1)$ when $x_1 < x_2$ then $f$ is said to be increasing on the interval $l$.
 	2. If $f(x_2) < f(x_1)$ when $x_1 < x_2$ then $f$ is said to be decreasing on the interval $l$.
@@ -58,4 +59,5 @@
 	11. Transcendental Functions $\coloneqq$ Functions that are not algebraic.
 		    $\rightsquigarrow$ Catenary Function 
 #### 1.2 Combining Functions
-// todo
+> [!info] todo
+14. 

@@ -39,7 +39,7 @@ Some of my favorite YouTubers are as follows:
 - [[Horses]]
 - [[Jeany Collects]]
 - [[Max0r]]
-- [[Philosophy Tube]]
+- [[Philosophize This]]
 - [[GMTK]]
 - [[Cup Toast]]
 - [[The Game Theorist]]
@@ -126,3 +126,4 @@ Some of my favorite YouTubers are as follows:
 - [[Brick Builder]]
 - [[LaurieWried]]
 - [[Tentacrul]]
+- [[Benn Jordan]]

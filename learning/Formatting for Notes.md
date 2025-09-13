@@ -5,3 +5,4 @@
 3. " $x \coloneqq y$ " means " $y$ " is the **definition** of " $x$ ".
 4. " $x \rightsquigarrow y$ " means if " $y$ " is **supplementary** **information** for " $x$ ".
 5. " $x \equiv y$ " means " $x$ " is **equivalent** to " $y$ ".
+6. " $x \hookrightarrow y$ " means " $y$ " is/are **example(s)** of " $x$ ".

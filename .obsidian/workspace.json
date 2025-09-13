@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c6f3e188e06007",
+        "id": "2a054eb900830c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "eeae48410c0f98e0",
+            "id": "2d909e12a1245be5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Formation of Crystals in Materials - Textbook.png"
+                "file": "learning/music/OpenMusicTheory.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Formation of Crystals in Materials - Textbook"
+              "icon": "lucide-file",
+              "title": "OpenMusicTheory"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +193,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eeae48410c0f98e0",
+  "active": "2d909e12a1245be5",
   "lastOpenFiles": [
+    "media/books/Ways of Seeing.md",
+    "learning/music/OpenMusicTheory.md",
+    "learning/mathematics/Mathematics.md",
+    "Pasted image 20250913232211.png",
+    "learning/material_science/Material Science.md",
+    "learning/business",
+    "learning/sociology",
+    "learning/economics",
+    "learning/Untitled.md",
+    "tools/platforms/Google.md",
+    "tools/platforms/YouTube.md",
+    "learning/philosophy/Rationalism.md",
+    "learning/philosophy/Philosophize This.md",
+    "learning/openstax/Openstax.md",
+    "learning/openstax/Formatting for Notes.md",
+    "learning/Formatting for Notes.md",
+    "images/Formation of Crystals in Materials - Textbook.png",
     "images/Types of Bonds in Materials - Textboko.png",
     "images/Potential Energy of Bonds in Materials - Textbook.png",
     "images/Atomic Bond Energy and Forces in Materials Chart - Textbook.png",
@@ -201,7 +220,6 @@
     "images/Mass Spectrometer Diagram - Textbook.png",
     "images/Formation of Grains in Materials - Textbook.png",
     "images/Transmission Model of Communication Diagram - Wikipedia.png",
-    "images/SMCR Diagram - Wikipedia.png",
     "logs/Film Log.md",
     "logs/Game Log.md",
     "logs/Reading Log.md",
@@ -212,33 +230,17 @@
     "learning/literature/Nonfiction.md",
     "learning/literature/Nonfiction 1.md",
     "lectures/HM101/HM101-4.md",
-    "Pasted image 20250912081107.png",
     "lectures/HM101/HM101-3.md",
     "lectures/MM101/MM101-4.md",
     "lectures/MT101/MT101-5.md",
     "lectures/MT101/MT101-6.md",
     "Untitled 1.base",
     "images",
-    "learning/Formatting for Notes.md",
-    "learning/material_science/Material Science.md",
     "Untitled 2.base",
-    "images/Formation of Crystals in Materials - Textbook.png",
-    "lectures/MM101/MM101-3.md",
-    "lectures/CH101/CH101-4.md",
-    "lectures/CH101/CH101-3.md",
-    "learning/chemistry/Chemistry.md",
     "Untitled.base",
-    "learning/mathematics/Mathematics.md",
-    "lectures/CS101/CS101-4.md",
-    "lectures/CS101/CS101-3.md",
-    "lectures/MM101/MM101-2.md",
-    "lectures/CH161/CH161-2.md",
     "Untitled.canvas",
     "lectures/MM141",
     "lectures/IF101L",
-    "people/personal",
-    "inbox",
-    "people",
-    "topics"
+    "people/personal"
   ]
 }
