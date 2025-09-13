@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a054eb900830c6c",
+        "id": "0d3f9b0dacecc166",
         "type": "tabs",
         "children": [
           {
-            "id": "2d909e12a1245be5",
+            "id": "7e152937facbe91a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png"
-              },
-              "icon": "lucide-image",
-              "title": "Grand Staff with lines and spaces labeled with Pitch Names - Textbook"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,24 +189,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "59e2dc219c3824bf",
+  "active": "7e152937facbe91a",
   "lastOpenFiles": [
-    "learning/music/OpenMusicTheory.md",
-    "media/books/Ways of Seeing.md",
-    "learning/mathematics/Mathematics.md",
-    "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
-    "learning/material_science/Material Science.md",
-    "learning/business",
-    "learning/sociology",
-    "learning/economics",
-    "learning/Untitled.md",
-    "tools/platforms/Google.md",
-    "tools/platforms/YouTube.md",
+    "learning/Formatting for Notes.md",
+    "learning/programming/HTML.md",
     "learning/philosophy/Rationalism.md",
     "learning/philosophy/Philosophize This.md",
     "learning/openstax/Openstax.md",
-    "learning/openstax/Formatting for Notes.md",
-    "learning/Formatting for Notes.md",
+    "learning/openstax/chem-2e/Chemistry 2e - Chapter 1.md",
+    "learning/openstax/chem-2e/Chemistry 2e.md",
+    "learning/openstax/calculus-volume1/Calculus Volume 1 - Chapter 1.md",
+    "learning/openstax/calculus-volume1/Calculus Volume 1.md",
+    "learning/music/OpenMusicTheory.md",
+    "learning/mathematics/Mathematics.md",
+    "learning/mathematics/math-roadmap/Mathematics Self Learning Roadmap.md",
+    "learning/math-roadmap/intro-to-philosophy/Think - A Compelling Introduction to Philosophy.md",
+    "learning/games/Video Game.md",
+    "learning/games/Game Development.md",
+    "learning/chemistry/Chemistry.md",
+    "lectures/MT101/MT101-6.md",
+    "lectures/MT101/MT101-5.md",
+    "lectures/MT101/MT101-4.md",
+    "lectures/MT101/MT101-3.md",
+    "lectures/MT101/MT101-2.md",
+    "lectures/MT101/MT101-1.md",
+    "lectures/MM141/MM141-1.md",
+    "lectures/MM101/MM101-4.md",
+    "ABC packing.md",
+    "lectures/MM101/MM101-3.md",
+    "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
+    "learning/business",
+    "learning/sociology",
+    "learning/economics",
     "images/Formation of Crystals in Materials - Textbook.png",
     "images/Types of Bonds in Materials - Textboko.png",
     "images/Potential Energy of Bonds in Materials - Textbook.png",
@@ -218,20 +230,6 @@
     "images/Mass Spectrometer Diagram - Textbook.png",
     "images/Formation of Grains in Materials - Textbook.png",
     "images/Transmission Model of Communication Diagram - Wikipedia.png",
-    "logs/Film Log.md",
-    "logs/Game Log.md",
-    "logs/Reading Log.md",
-    "logs/Music Log.md",
-    "README.md",
-    "learning/language/The International Phonetic Alphabet (English).md",
-    "learning/language/The International Phonetic Alphabet (English) 1.md",
-    "learning/literature/Nonfiction.md",
-    "learning/literature/Nonfiction 1.md",
-    "lectures/HM101/HM101-4.md",
-    "lectures/HM101/HM101-3.md",
-    "lectures/MM101/MM101-4.md",
-    "lectures/MT101/MT101-5.md",
-    "lectures/MT101/MT101-6.md",
     "Untitled 1.base",
     "images",
     "Untitled 2.base",
