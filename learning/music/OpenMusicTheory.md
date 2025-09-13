@@ -1,3 +1,4 @@
+> [!info] Requires "ABC Notation" plugin to view on Obsidian.
 #### 1.0 Fundamentals
 ##### 1.1 Introduction to Western Musical Notation
 1. Note $\coloneqq$ Describes pitch and rhythm
