@@ -11,14 +11,12 @@
             "id": "2d909e12a1245be5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "learning/music/OpenMusicTheory.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png"
               },
-              "icon": "lucide-file",
-              "title": "OpenMusicTheory"
+              "icon": "lucide-image",
+              "title": "Grand Staff with lines and spaces labeled with Pitch Names - Textbook"
             }
           }
         ]
@@ -193,12 +191,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d909e12a1245be5",
+  "active": "59e2dc219c3824bf",
   "lastOpenFiles": [
-    "media/books/Ways of Seeing.md",
     "learning/music/OpenMusicTheory.md",
+    "media/books/Ways of Seeing.md",
     "learning/mathematics/Mathematics.md",
-    "Pasted image 20250913232211.png",
+    "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
     "learning/material_science/Material Science.md",
     "learning/business",
     "learning/sociology",

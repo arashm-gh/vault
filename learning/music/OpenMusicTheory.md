@@ -41,7 +41,7 @@ T:Tenor Clef
 8. Tenor Clef $\Rightarrow$ DEFGABCDEFG
 ##### 1.4 The Keyboard and Grand-staff
 
-9. ![[Pasted image 20250913232211.png]]
+9. ![[Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png]]
 ```music-abc
 K:1
 V: V1 clef=treble
