@@ -11,10 +11,14 @@
             "id": "7e152937facbe91a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "lectures/CH101/CH101-5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH101-5"
             }
           }
         ]
@@ -191,6 +195,14 @@
   },
   "active": "7e152937facbe91a",
   "lastOpenFiles": [
+    "learning/politics/Capital Volume 1.md",
+    "lectures/MT101/MT101-4.md",
+    "lectures/MT101/MT101-5.md",
+    "lectures/MT101/MT101-6.md",
+    "lectures/MM101/MM101-4.md",
+    "lectures/CH101/CH101-5.md",
+    "diary/Switching to Obsidian.md",
+    "learning/chemistry/Chemistry.md",
     "learning/Formatting for Notes.md",
     "learning/programming/HTML.md",
     "learning/philosophy/Rationalism.md",
@@ -206,17 +218,9 @@
     "learning/math-roadmap/intro-to-philosophy/Think - A Compelling Introduction to Philosophy.md",
     "learning/games/Video Game.md",
     "learning/games/Game Development.md",
-    "learning/chemistry/Chemistry.md",
-    "lectures/MT101/MT101-6.md",
-    "lectures/MT101/MT101-5.md",
-    "lectures/MT101/MT101-4.md",
     "lectures/MT101/MT101-3.md",
     "lectures/MT101/MT101-2.md",
     "lectures/MT101/MT101-1.md",
-    "lectures/MM141/MM141-1.md",
-    "lectures/MM101/MM101-4.md",
-    "ABC packing.md",
-    "lectures/MM101/MM101-3.md",
     "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
     "learning/business",
     "learning/sociology",

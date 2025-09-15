@@ -20,12 +20,15 @@ I've also decided that instead of keeping everything outside a folder I'm going 
 18. #Philosophy
 19. #Physics
 20. #Politics
-21. #Programming
-22. #Psychology
-23. #Scene
-24. #People
-25. #Media
-26. #Tools
+21. #Economics 
+22. #Business
+23. #Sociology
+24. #Programming
+25. #Psychology
+26. #Scene
+27. #People
+28. #Media
+29. #Tools
 This should — pretty consistently — keep everything in order the way I want it to! So I'm gonna be doing that now.
 I also need to remember to update the paths in my gitignore file **before** updating anything. 
 Probably the next step after this would be to keep adding diary entries while referencing material outside them like books and stuff and then making entries for those as well after reading them!
