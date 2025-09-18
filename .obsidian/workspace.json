@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3f9b0dacecc166",
+        "id": "59b5249b7e1d8f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e152937facbe91a",
+            "id": "87fa35685deb9179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectures/CH101/CH101-5.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH101-5"
+              "title": "README"
             }
           }
         ]
@@ -193,34 +193,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7e152937facbe91a",
+  "active": "59e2dc219c3824bf",
   "lastOpenFiles": [
-    "learning/politics/Capital Volume 1.md",
-    "lectures/MT101/MT101-4.md",
-    "lectures/MT101/MT101-5.md",
-    "lectures/MT101/MT101-6.md",
-    "lectures/MM101/MM101-4.md",
-    "lectures/CH101/CH101-5.md",
-    "diary/Switching to Obsidian.md",
-    "learning/chemistry/Chemistry.md",
-    "learning/Formatting for Notes.md",
-    "learning/programming/HTML.md",
-    "learning/philosophy/Rationalism.md",
-    "learning/philosophy/Philosophize This.md",
-    "learning/openstax/Openstax.md",
-    "learning/openstax/chem-2e/Chemistry 2e - Chapter 1.md",
-    "learning/openstax/chem-2e/Chemistry 2e.md",
-    "learning/openstax/calculus-volume1/Calculus Volume 1 - Chapter 1.md",
-    "learning/openstax/calculus-volume1/Calculus Volume 1.md",
-    "learning/music/OpenMusicTheory.md",
-    "learning/mathematics/Mathematics.md",
-    "learning/mathematics/math-roadmap/Mathematics Self Learning Roadmap.md",
-    "learning/math-roadmap/intro-to-philosophy/Think - A Compelling Introduction to Philosophy.md",
-    "learning/games/Video Game.md",
-    "learning/games/Game Development.md",
-    "lectures/MT101/MT101-3.md",
+    "lectures/MT101/MT101-9.md",
+    "lectures/MT101/MT101-8.md",
+    "lectures/CS101/CS101-6.md",
+    "learning/material_science/Material Science.md",
+    "lectures/CS101/CS101-5.md",
     "lectures/MT101/MT101-2.md",
     "lectures/MT101/MT101-1.md",
+    "lectures/MM101/MM101-6.md",
+    "lectures/MM101/MM101-1.md",
+    "lectures/MM101/MM101-4&5.md",
+    "lectures/MM101/MM101-3.md",
+    "lectures/MM101/MM101-2.md",
+    "lectures/CH161/CH161-3.md",
+    "lectures/CH161/CH161-2.md",
+    "lectures/HM101/HM101-5.md",
+    "lectures/HM101/HM101-4.md",
+    "lectures/MT101/MT101-7.md",
+    "logs/Film Log.md",
+    "media/films/The Lighthouse.md",
+    "learning/mathematics/Mathematics.md",
+    "lectures/IF101L/IF101-2.md",
+    "media/books/Introduction to the Study of Literature and Film in English.md",
+    "media/books/Literary Theory An Introduction.md",
+    "media/books/Think - A Compelling Introduction to Philosophy.md",
+    "lectures/CH101/CH101-5.md",
+    "learning/politics/Capital Volume 1.md",
     "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
     "learning/business",
     "learning/sociology",

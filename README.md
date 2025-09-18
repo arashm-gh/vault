@@ -1,48 +1,47 @@
 # vault
 Hello and welcome to the vault!
 #### Structure
-`.`
-`├── images`
-`├── learning` (Notes on sciences and humanities)
-`│   ├── art` 
-`│   ├── biology`
-`│   ├── chemistry`
-`│   ├── computer_science`
-`│   ├── cuisine`
-`│   ├── culture`
-`│   ├── design`
-`│   ├── electrical_engineering`
-`│   ├── etiquette`
-`│   ├── fashion`
-`│   ├── film`
-`│   ├── games`
-`│   ├── language`
-`│   ├── literature`
-`│   ├── material_science`
-`│   ├── mathematics`
-`│   ├── math-roadmap`
-`│   ├── music`
-`│   ├── openstax`
-`│   ├── philosophy`
-`│   ├── physics`
-`│   ├── politics`
-`│   ├── programming`
-`│   ├── psychology`
-`│   └── scene`
-`├── lectures` (Bachelor in Electrical Engineering)
-`├── logs` (Semi-up-to-date logs on things I've seen)
-`├── media` (Notes on particular media I've consumed)
-`│   ├── books`
-`│   ├── films`
-`│   └── games`
-`├── people` (Notes on important people)
-`├── tools`
-`│   ├── frameworks`
-`│   ├── platforms`
-`│   └── software`
-`└── topics` (General Concepts)
+`.`  
+`├── images`  
+`├── learning` (Notes on sciences and humanities)  
+`│   ├── art`   
+`│   ├── biology`  
+`│   ├── chemistry`  
+`│   ├── computer_science`  
+`│   ├── cuisine`  
+`│   ├── culture`  
+`│   ├── design`  
+`│   ├── electrical_engineering`  
+`│   ├── etiquette`  
+`│   ├── fashion`  
+`│   ├── film`  
+`│   ├── games`  
+`│   ├── language`  
+`│   ├── literature`  
+`│   ├── material_science`  
+`│   ├── mathematics`  
+`│   ├── music`  
+`│   ├── openstax`  
+`│   ├── philosophy`  
+`│   ├── physics`  
+`│   ├── politics`  
+`│   ├── programming`  
+`│   ├── psychology`  
+`│   └── scene`  
+`├── lectures` (Bachelor in Electrical Engineering)  
+`├── logs` (Semi-up-to-date logs on things I've seen)  
+`├── media` (Notes on particular media I've consumed)  
+`│   ├── books`  
+`│   ├── films`  
+`│   └── games`  
+`├── people` (Notes on important people)  
+`├── tools`  
+`│   ├── frameworks`  
+`│   ├── platforms`  
+`│   └── software`  
+`└── topics` (General Concepts)  
 #### Attributions
-Thank you me!
+Thank you the authors whose Textbooks and material I have used!
 #### Sources(-ish)
 - `/learning/Formatting for Notes.md` is self made and loosely based off of mathematical syntax.
 - I've used mostly textbooks for everything in `/learning/`. 
