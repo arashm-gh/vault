@@ -6,3 +6,5 @@
 4. " $x \rightsquigarrow y$ " means if " $y$ " is **supplementary** **information** for " $x$ ".
 5. " $x \equiv y$ " means " $x$ " is **equivalent** to " $y$ ".
 6. " $x \hookrightarrow y$ " means " $y$ " is/are **example(s)** of " $x$ ".
+7. " $x \triangleright y$ " means " $y$ " is/are **application(s)** of " $x$ ".
+	1. $\hookrightarrow$ "Wood $\triangleright$ Fuel" $\Rightarrow$ Fuel is a use/application of Wood.

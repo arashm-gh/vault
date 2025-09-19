@@ -28,7 +28,9 @@ I've also decided that instead of keeping everything outside a folder I'm going 
 26. #Scene
 27. #People
 28. #Media
-29. #Tools
+29. #Tools 
+30. #Date
+31. #Year
 This should — pretty consistently — keep everything in order the way I want it to! So I'm gonna be doing that now.
 I also need to remember to update the paths in my gitignore file **before** updating anything. 
 Probably the next step after this would be to keep adding diary entries while referencing material outside them like books and stuff and then making entries for those as well after reading them!
