@@ -4,7 +4,7 @@
 3. His dad was an accountant and there was a ton of [[Arithmetic]] to do.
 4. His genius was nurtured from a young age.
 5. The world during his childhood was changing a lot.
-6. 14 years old when [[Descartes]] released [[Discourse on the Method]] 
+6. 14 years old when [[Rene Descartes|Descartes]] released [[Discourse on the Method]] 
 7. Home Schooled, Forbade from studying math until the age of 11.
 8. Problem of science and truth.
 9. Influenced by [[Montaigne]].
@@ -26,3 +26,5 @@
 19. Mastering your imagination is difficult
 20. 
 #### 33. 
+#### 35. [[John Locke]]
+#### 36. [[John Locke]] part 2

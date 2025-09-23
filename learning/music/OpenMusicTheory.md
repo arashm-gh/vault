@@ -10,7 +10,7 @@
 T:Basic Note
 C4
 ```
-4. [[Clef]]s
+4. [[Clef|Clefs]]
 ```music-abc
 K:C clef=treble
 T:Treble Clef
@@ -51,18 +51,18 @@ T:Grand Staff (for Piano)
 [V: V1] C| D| z| z|
 [V: V2] z,| z,| D,| D,|
 ```
- 10. [[Generic Intervals]] $\coloneqq$ Distance between notes  F and C are 5 notes apart and called a "generic fifth".
+ 10. [[Generic Interval]] $\coloneqq$ Distance between notes  F and C are 5 notes apart and called a "generic fifth".
 ##### 1.5 Half Steps, Whole Steps, and Accidentals
-11. [[Half Step]] $\coloneqq$ Smallest Distance between notes.
+11. [[Half Step (Music Theory)|Half Step]] $\coloneqq$ Smallest Distance between notes.
 	1. $\rightsquigarrow$ Half Step Lower $\coloneqq$ Immediate key on the left.
 	2. $\rightsquigarrow$ Half Step Higher $\coloneqq$ Immediate key on the right.
-12. [[Accidentals]]
-	1. [[Flat]] $\coloneqq$ Lowers the note by a half step.
-	2.  [[Sharp]] $\coloneqq$ Raises the note by a half step.
-13. [[Whole Step]] $\coloneqq$ Two Half steps of distance between notes.
+12. [[Accidentals (Music Theory)|Accidentals]]
+	1. [[Flat (Music Theory)|Flat]] $\coloneqq$ Lowers the note by a half step.
+	2.  [[Sharp (Music Theory)|Sharp]] $\coloneqq$ Raises the note by a half step.
+13. [[Whole Step (Music Theory)|Whole Step]] $\coloneqq$ Two Half steps of distance between notes.
 #####  1.6 American Standard Pitch Notation (ASPN)
-14. Pitch $\coloneqq$ discrete tone with an individual frequency  C4.
-15. [[Pitch Class]]  less specific $\hookrightarrow$ C in general.
+14. [[Pitch]] $\coloneqq$ discrete tone with an individual frequency  C4.
+15. [[Pitch Class]] $\coloneqq$ less specific $\hookrightarrow$ C in general.
 16. Middle C is C4 in [[ASPN]].
 ##### 1.7 Other Aspects of Notation
 17. Dynamics $\coloneqq$ Loudness.

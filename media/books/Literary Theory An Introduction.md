@@ -5,7 +5,7 @@
 - > *This book sets out to provide a reasonably comprehensive account of modern literary theory for those with little or no previous knowledge of the topic.*
 - What is *Literature*?
 - > *Seventeenth-century English literature includes [[Shakespeare]], [[Webster]], [[Marvell and Milton]]; but it also stretches to the essays of [[Francis Bacon]], the sermons of [[John Donne]], [[Bunyan]]'s spiritual autobiography and whatever it was that [[Sir Thomas Browne]] wrote. It might even at a pinch be taken to encompass [[Hobbes]]'s Leviathan or [[Clarendon]]'s History of the Rebellion.*
-- > *French seventeenth-century literature contains, along with [[Corneille and Racine]], [[La Rochefoucauld]]'s maxims, [[Bossuet]]'s funeral speeches, [[Boileau]]'s treatise on poetry, [[Madame de Sevigne]]'s letters to her daughter and the philosophy of [[Descartes]] and [[Pascal]].*
+- > *French seventeenth-century literature contains, along with [[Corneille and Racine]], [[La Rochefoucauld]]'s maxims, [[Bossuet]]'s funeral speeches, [[Boileau]]'s treatise on poetry, [[Madame de Sevigne]]'s letters to her daughter and the philosophy of [[Rene Descartes|Descartes]] and [[Pascal]].*
 - > *Nineteenth-century English literature usually includes [[Lamb]] (though not [[Bentham]]), [[Macaulay]] (but not [[Marx]]), [[Mill]] (but not [[Darwin]] or [[Herbert Spencer]]).*
 - > *[Literature] in the words of the Russian critic Roman [[Jakobson]], represents an 'organized violence committed on ordinary speech'.*
 - > *Literature transforms and intensifies ordinary language, deviates systematically from everyday speech.*

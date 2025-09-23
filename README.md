@@ -44,7 +44,7 @@ I recommend reading this first and then the `./learning/Formatting for Notes.md`
 `│   └── software`  
 `└── topics` (General Concepts)  
 ## Attributions
-Thank you the authors whose Textbooks and material I have used!
+Thank you the authors whose Textbooks, Videos, Blogs, Essays, Podcasts, and material I have used!
 ## Sources(-ish)
 - `/learning/Formatting for Notes.md` is self made and loosely based off of mathematical syntax.
 - I've used mostly textbooks for everything in `/learning/`. 
@@ -53,4 +53,5 @@ Thank you the authors whose Textbooks and material I have used!
 - Paraphrasing Wikipedia and other sources easily found on google, as well as what my personal thoughts on some things are.
 ## Use and Downloading
 - Please view `./Licence.md` 
-- 
+- `git clone https://github.com/arashm-gh/vault`
+- Open in a compatible markdown viewer (I use [[Obsidian (App)]])

@@ -1,6 +1,6 @@
 {
   "strictLineBreaks": true,
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false

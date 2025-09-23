@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3ed7629b84b08e08",
+        "id": "f0af4bd922559755",
         "type": "tabs",
         "children": [
           {
-            "id": "61cc846c45765f66",
+            "id": "add5ef39a19ec281",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "logs/Music Log.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Music Log"
+            }
+          },
+          {
+            "id": "e88943d3953c2aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/personal/Someone called me Isaac Newton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Someone called me Isaac Newton"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "descartes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04556ac5df7e6e3b",
@@ -180,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,34 +209,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61cc846c45765f66",
+  "active": "e88943d3953c2aed",
   "lastOpenFiles": [
+    "logs/Music Log.md",
+    "diary/personal/Someone called me Isaac Newton.md",
+    "media/books/Think - A Compelling Introduction to Philosophy.md",
+    "learning/mathematics/math-roadmap 1/intro-to-philosophy/Think - A Compelling Introduction to Philosophy.md",
     "learning/philosophy/Philosophize This.md",
-    "Probability Theory.md",
-    "learning/music/OpenMusicTheory.md",
+    "media/books/Literary Theory An Introduction.md",
+    "learning/philosophy/Continental Rationalists.md",
+    "learning/philosophy/Continental Empiricists.md",
     "lectures/Study Plan.md",
-    "lectures/MT101/MT101-6.md",
-    "lectures/MT101/MT101-7.md",
-    "lectures/MT101/MT101-8.md",
+    "lectures/HM101/HM101-7.md",
+    "learning/mathematics/Rules of Derivation.md",
+    "Selection of experience for memory by hippocampal sharp wave ripples.md",
+    "diary/personal/Studying for Swift Test.md",
+    "Pasted image 20250923121127.png",
+    "Pasted image 20250923121151.png",
+    "diary/personal/Using the working of an Organic Neural Network to make an Artificial Neural Network.md",
+    "learning/mathematics/Mathematics.md",
+    "lectures/MT101/MT101-10.md",
     "lectures/MT101/MT101-9.md",
-    "lectures/MM141/MM141-1.md",
-    "lectures/MM101/MM101-6.md",
-    "lectures/MM101/MM101-4&5.md",
-    "lectures/MM101/MM101-3.md",
-    "lectures/MM101/MM101-2.md",
-    "lectures/MM101/MM101-1.md",
-    "lectures/IF101L/IF101-2.md",
-    "lectures/IF101L/IF101-1.md",
-    "lectures/HM101/HM101-6.md",
-    "lectures/HM101/HM101-5.md",
-    "lectures/HM101/HM101-4.md",
-    "lectures/HM101/HM101-3.md",
-    "lectures/HM101/HM101-2.md",
-    "lectures/HM101/HM101-1.md",
+    "README.md",
+    "learning/philosophy/Rationalism.md",
+    "lectures/MM101/Untitled.md",
+    "lectures/CS101/CS101-7.md",
+    "learning/computer_science/If Statement.md",
     "lectures/CS101/CS101-6.md",
-    "lectures/CS101/CS101-5.md",
-    "lectures/CS101/CS101-4.md",
-    "lectures/CS101/CS101-3.md",
+    "learning/chemistry/Chemistry.md",
+    "learning/chemistry/Diatomic Molecule.md",
+    "learning/chemistry/Combustion Analysis.md",
+    "templates",
     "images/Mass Spectrometer Diagram - Textbook.png",
     "images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",
     "images/Formation of Grains in Materials - Textbook.png",
@@ -226,8 +248,6 @@
     "images/Atomic Bond Energy and Forces in Materials Chart - Textbook.png",
     "images/Ashby chart for Material Categories - Textbook.png",
     "images/SMCR Diagram - Wikipedia.png",
-    "images/Table for List and Types of Copyright and Copyleft Licenses - Wikipedia.png",
-    "images/Transmission Model of Communication Diagram - Wikipedia.png",
     "arvix.org/pdf",
     "arvix.org",
     "learning/ai-ml",
@@ -237,7 +257,6 @@
     "learning/economics",
     "Untitled 1.base",
     "images",
-    "Untitled 2.base",
     "Untitled.canvas"
   ]
 }

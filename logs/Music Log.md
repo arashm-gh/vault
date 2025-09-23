@@ -14,3 +14,8 @@
 - [[Los Campesinos!]]/[[Hold On Now, Youngster...]]/* ([[2018]]) - [[28/Aug/2025]]
 - [[The Beatles]]/[[Abbey Road]]/* ([[1969]]) - [[1/Sept/2025]]
 - [[Magdalena Bay]]/[[Imaginal Disk]]/* ([[2024]]) - [[12/Sept/2025]]
+- [[Tyler, The Creator]]/[[DON'T TAP THE GLASS]] ([[2025]]) - [[14/Sept/2025]]
+- [[MIMIDEATH]]/[[effective. Power]]/* ([[2020]]) - [[20/Sept/2025]]
+- [[Sewerslvt]]/[[Draining Love Story]]/* ([[2020]]) - [[21/Sept/2025]]
+- [[Sewerslvt]]/[[we had good times together, don't forget that]]/* ([[2021]]) - [[21/Sept/2025]]
+- 

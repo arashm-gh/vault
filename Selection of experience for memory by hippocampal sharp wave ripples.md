@@ -1,0 +1,5 @@
+#Biology #Computer_Science #Mathematics #AI-ML
+# Source
+[Paper link](https://www.science.org/doi/10.1126/science.adk8261)
+# Abstract
+*"Experiences need to be tagged during learning for further consolidation. However, neurophysiological mechanisms that select experiences for lasting memory are not known. By combining large-scale neural recordings in mice with dimensionality reduction techniques, we observed that successive maze traversals were tracked by continuously drifting populations of neurons, providing neuronal signatures of both places visited and events encountered. When the brain state changed during reward consumption, sharp wave ripples (SPW-Rs) occurred on some trials, and their specific spike content decoded the trial blocks that surrounded them. During postexperience sleep, SPW-Rs continued to replay those trial blocks that were reactivated most frequently during waking SPW-Rs. Replay content of awake SPW-Rs may thus provide a neurophysiological tagging mechanism to select aspects of experience that are preserved and consolidated for future use."*

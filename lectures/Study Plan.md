@@ -34,3 +34,16 @@ Teachers don't usually like to rely on books and it's usually supplementary mate
 For stuff like Material Science I might have to make another folder and put my shit in there, and for chemistry I'll add something to the old folder.
 Now we need to decide what to study! I did a tiny bit of math yesterday and it helped a little but it was far too introductory and short to really teach me anything new :( I did make notes though and they were helpful 
 I'm gonna take a little break and get back to MT101, and then touch on some CH101 and call it a night.
+Leaving Times of All course
+
+| Code   | Week 3/Tuesday | Week 3/Wednesday | Week 3/Thursday | Week 3/Friday |
+| ------ | -------------- | ---------------- | --------------- | ------------- |
+| CH161  |                |                  |                 |               |
+| CH101  | -              |                  |                 |               |
+| CS101  | -              |                  |                 |               |
+| HM101  | +0.5           |                  |                 |               |
+| IF101L | -              |                  |                 |               |
+| MM101  | -              |                  |                 |               |
+| MM141  | -              |                  |                 |               |
+| MT101  | -              |                  |                 |               |
+$\pm n \Rightarrow$ $+$ is Late, $-$ is Early, $n$ is Minutes

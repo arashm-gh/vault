@@ -1,0 +1,3 @@
+[[John Locke]]
+[[Berkeley]]
+[[Hume]]
