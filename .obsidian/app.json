@@ -3,5 +3,7 @@
   "vimMode": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "newLinkFormat": "absolute"
 }
