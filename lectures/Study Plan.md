@@ -1,18 +1,18 @@
 > Each course has a number of credit hours! I have nine different classes that could happen at any given time, and they add up to ***15*** credit hours!
 > The general rule of thumb is that I spend 2 hours for each credit hour of subject! Here's a table:
 
-| Subject Code | Credit Hours | Study Hours | Course Name                              |
-| ------------ | ------------ | ----------- | ---------------------------------------- |
-| CH101        | 2            | 4           | Applied Chemistry and the Environment    |
-| CH161        | 1            | 2           | Occupational Health and Safety           |
-| CS101        | 2            | 4           | Computer and Artificial Intelligence     |
-| CS101L       | 1            | 2           | Computer and Artificial Intelligence LAB |
-| HM101        | 3            | 6           | Communication Skills                     |
-| IF101L       | 1            | 2           | Innovation and Makers I                  |
-| MM101        | 2            | 4           | Material Science and Nanotechnology      |
-| MM141        | 1            | 2           | Material Science and Nanotechnology LAB  |
-| MT101        | 3            | 6           | Calculus I                               |
-| TOTAL        | (15)         | 30          |                                          |
+| Subject Code | Credit Hours | Study Hours | Course Name                                            |
+| ------------ | ------------ | ----------- | ------------------------------------------------------ |
+| CH101        | 2            | 4           | [[Applied Chemistry, Environment, and Climate Change]] |
+| CH161        | 1            | 2           | [[Occupational Health and Safety]]                     |
+| CS101        | 2            | 4           | [[Computer and Artificial Intelligence]]               |
+| CS101L       | 1            | 2           | Computer and Artificial Intelligence LAB               |
+| HM101        | 3            | 6           | [[Communication Skills]]                               |
+| IF101L       | 1            | 2           | Innovation and Makers I                                |
+| MM101        | 2            | 4           | [[Material Science]]                                   |
+| MM141        | 1            | 2           | Material Science and Nanotechnology LAB                |
+| MT101        | 3            | 6           | [[Calculus I]]                                        |
+| TOTAL        | (15)         | 30          |                                                        |
 I'm gonna be mostly busy from 5am to 5pm ($12$ hours of the day) and sleep from 10am to 5am ($7$ hours) this leaves $~5$ hours of free time for the workweek and $17$ hours for Saturday, Sunday.
 Realistically I'll only be studying for a maximum of $2$ hours from Monday to Friday which means $30 - (5 \times 2) = 20$ hours for the weekend which means $10$ hours, which is more than unmanageable.
 Currently my schedule (which I can hardly follow) gives me $17.5$ hours per week of study, from Monday to Sunday excluding lecture times.
@@ -40,10 +40,10 @@ Leaving Times of All course
 | ------ | -------------- | ---------------- | --------------- | ------------- |
 | CH161  |                |                  |                 |               |
 | CH101  | -              |                  |                 |               |
-| CS101  | -              |                  |                 |               |
+| CS101  | -              | +10              |                 |               |
 | HM101  | +0.5           |                  |                 |               |
 | IF101L | -              |                  |                 |               |
-| MM101  | -              |                  |                 |               |
+| MM101  | -              | +4               |                 |               |
 | MM141  | -              |                  |                 |               |
-| MT101  | -              |                  |                 |               |
+| MT101  | -              |                  | -16             |               |
 $\pm n \Rightarrow$ $+$ is Late, $-$ is Early, $n$ is Minutes

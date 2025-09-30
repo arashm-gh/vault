@@ -1,4 +1,5 @@
 #Chemistry 
+> [!info] TODO: Some information requires separation into other topics
 # Introduction
 1. Sample is placed in a [[Platinum]] furnace boat at the start and excess [[Oxygen]] is provided. 
 2. This begins a [[Combustion Reaction]]

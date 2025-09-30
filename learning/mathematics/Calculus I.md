@@ -1,5 +1,4 @@
 #Mathematics 
-## MT101 (Calculus I)
 #### 1.1 Functions
 1. A [[Function]] $\coloneqq$ rule that assigns a unique element in set $Y$ to each [[Element]] in [[Set]] $D$. $f(x) \in Y$, $x \in D$.
 2. [[Domain]] $\coloneqq$ set of all possible [[Input]] values for a function.

@@ -2,7 +2,7 @@
 ## 0.0 Introduction
 #### 0.1 Sources
 1. [[Chemistry 10th Edition by Whitten, Davis, Peck, and Stanley]]
-## 1.0 The Foundations of [[Chemistry]]
+## 1.0 The Foundations of [[Applied Chemistry, Environment, and Climate Change]]
 #### 1.1 [[Matter]] and [[Energy]]
 1. [[Matter]] $\coloneqq$ Anything that has mass and occupies space
 2. [[Mass]] $\coloneqq$ Measure of matter in a substance $\Leftrightarrow$ Measure of Inertia
@@ -29,11 +29,21 @@
 | [[Neutron]] $n$ or $n^0$ | 1.0                | None              |
 6. $1\,amu = 1.6605 \times 10^{-24}g$
 7. [[Diatomic Molecule]]
-8. 
 
 #### 1.3 [[States of Matter]]
-
+1. Matter can be classified into 3 states
+	1. Solid
+		1. Rigid Defined Shape
+		2. No change in volume
+	2. Liquid
+		1. Fluid shape
+		2. No change in volume
+	3. Gas
+		1. Low density
+		2. Fluid shape
+		3. Highly Compressible
 #### 1.4 [[Chemical Properties | Chemical]] and [[Physical Properties]]
+1. 
 #### 1.5 [[Chemical Changes|Chemical]] and [[Physical Changes]]
 #### 1.6 [[Mixtures]], [[Substances]], [[Compounds]], and [[Elements]]
 #### 1.7 [[Measurement (Chemistry)|Measurements in Chemistry]]
@@ -48,3 +58,6 @@
 ## 3.0 Chemical Equations and Reaction Stoichiometry
 
 ## 4.0 The Structure of Atoms
+1. [[Composition Stoichiometry]]
+2. [[Reaction Stoichiometry]]
+3. 

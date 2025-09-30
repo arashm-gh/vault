@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f0af4bd922559755",
+        "id": "54dc5f32c1413079",
         "type": "tabs",
         "children": [
           {
-            "id": "add5ef39a19ec281",
+            "id": "655fde6fc4017f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/Music Log.md",
+                "file": "learning/literature/Narration Situations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music Log"
+              "title": "Narration Situations"
             }
           },
           {
-            "id": "e88943d3953c2aed",
+            "id": "cc1df2d35682316a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Team Swift.md",
+                "file": "lectures/CS101/CS101-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Swift"
+              "title": "CS101-10"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "descartes",
+                "query": "implicit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,16 +188,58 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "2dcf9bdffeb31cf1",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "37597cf5bbd3a4ca",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "49a7485446abbee5",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "dadc603b292777e8",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "quickadd:QuickAdd": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -209,36 +251,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e88943d3953c2aed",
+  "active": "cc1df2d35682316a",
   "lastOpenFiles": [
-    "media/images/Critical Angle of Attack on an Airfoil - Video.png",
-    "diary/personal/Selection of experience for memory by hippocampal sharp wave ripples.md",
-    "README.md",
-    "learning/Team Swift.md",
-    "diary/Simple Flow-Field.md",
-    "lectures/CH161/CH161-4.md",
-    "media/images/Diagram of Angle of Attack on an Airfoil - Video.png",
-    "diary/personal/Someone called me Isaac Newton.md",
-    "logs/Music Log.md",
-    "media/books/Think - A Compelling Introduction to Philosophy.md",
-    "learning/mathematics/math-roadmap 1/intro-to-philosophy/Think - A Compelling Introduction to Philosophy.md",
-    "learning/philosophy/Philosophize This.md",
-    "media/books/Literary Theory An Introduction.md",
-    "learning/philosophy/Continental Rationalists.md",
-    "learning/philosophy/Continental Empiricists.md",
-    "lectures/Study Plan.md",
-    "lectures/HM101/HM101-7.md",
-    "learning/mathematics/Rules of Derivation.md",
-    "Pasted image 20250923121151.png",
-    "diary/personal/Using the working of an Organic Neural Network to make an Artificial Neural Network.md",
-    "learning/mathematics/Mathematics.md",
-    "lectures/MT101/MT101-10.md",
-    "lectures/MT101/MT101-9.md",
-    "learning/philosophy/Rationalism.md",
-    "lectures/MM101/Untitled.md",
+    "lectures/CS101/CS101-9.md",
+    "lectures/CS101/CS101-8.md",
     "lectures/CS101/CS101-7.md",
-    "learning/computer_science/If Statement.md",
-    "lectures/CS101/CS101-6.md",
+    "lectures/CS101/CS101-10.md",
+    "lectures/MM141/MM141-4.md",
+    "learning/literature/Narration Situations.md",
+    "learning/literature/Hetrodigetic.md",
+    "learning/literature/Homodigetic.md",
+    "LICENSE.md",
+    "people/personal/Zoyah Imran.md",
+    "diary/personal/The Missus.md",
+    "diary/Team Swift.md",
+    "learning/games/Guidelines for Game Criticism.md",
+    "learning/games/Video Game.md",
+    "lectures/MM101/MM101-8.md",
+    "diary/personal/Cried today.md",
+    "lectures/Study Plan.md",
+    "diary/GIKI EE General + Core.md",
+    "lectures/MT101/MT101-12.md",
+    "README.md",
+    "lectures/HM101/HM101-4.md",
+    "lectures/HM101/HM101-3.md",
+    "lectures/HM101/HM101-2.md",
+    "lectures/HM101/HM101-1.md",
+    "lectures/HM101/HM101-5.md",
+    "lectures/HM101/HM101-7.md",
+    "media/images/Critical Angle of Attack on an Airfoil - Video.png",
+    "media/images/Diagram of Angle of Attack on an Airfoil - Video.png",
+    "Pasted image 20250923121151.png",
     "templates",
     "media/images/Mass Spectrometer Diagram - Textbook.png",
     "media/images/Grand Staff with lines and spaces labeled with Pitch Names - Textbook.png",

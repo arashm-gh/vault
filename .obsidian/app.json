@@ -4,6 +4,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "defaultViewMode": "preview",
-  "newLinkFormat": "absolute"
+  "defaultViewMode": "source",
+  "newLinkFormat": "shortest"
 }
