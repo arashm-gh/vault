@@ -36,14 +36,14 @@ Now we need to decide what to study! I did a tiny bit of math yesterday and it h
 I'm gonna take a little break and get back to MT101, and then touch on some CH101 and call it a night.
 Leaving Times of All course
 
-| Code   | Week 3/Tuesday | Week 3/Wednesday | Week 3/Thursday | Week 3/Friday |
-| ------ | -------------- | ---------------- | --------------- | ------------- |
-| CH161  |                |                  |                 |               |
-| CH101  | -              |                  |                 |               |
-| CS101  | -              | +10              |                 |               |
-| HM101  | +0.5           |                  |                 |               |
-| IF101L | -              |                  |                 |               |
-| MM101  | -              | +4               |                 |               |
-| MM141  | -              |                  |                 |               |
-| MT101  | -              |                  | -16             |               |
+| Code   | Week 3/Tuesday | Week 3/Wednesday | Week 3/Thursday | Week 3/Friday | Week 4/Monday | Week 4/Tuesday | Week 4/Wednesday |
+| ------ | -------------- | ---------------- | --------------- | ------------- | ------------- | -------------- | ---------------- |
+| CH161  |                |                  |                 |               |               | +3             |                  |
+| CH101  | -              |                  |                 |               |               |                | +5               |
+| CS101  | -              | +10              |                 |               |               |                |                  |
+| HM101  | +0.5           |                  |                 |               |               |                |                  |
+| IF101L | -              |                  |                 |               |               |                |                  |
+| MM101  | -              | +4               |                 |               |               | -7             |                  |
+| MM141  | -              |                  |                 |               | -69           |                |                  |
+| MT101  | -              |                  | -16             |               |               | -6             |                  |
 $\pm n \Rightarrow$ $+$ is Late, $-$ is Early, $n$ is Minutes

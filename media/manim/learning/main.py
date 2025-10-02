@@ -19,7 +19,7 @@ class SquareToCircle(Scene):
 
 class SquareAndCircle(Scene):
     def construct(self):
-        circle = Circle()
+        circle : Circle = Circle()
         circle.set_fill(BLUE, opacity=0.3)
         square = Square()
         square.set_fill(RED, opacity=0.3)
