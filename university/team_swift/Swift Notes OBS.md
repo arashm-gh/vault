@@ -1,11 +1,11 @@
 1. Study Material
-	1. Team Swift
+	1. [[Team Swift]]
 	2. Forces acting on an aircraft
 		1. Drag, Lift, Weight, Thrust
 	3. Airfoil
 		1. Low Pressure
 		2. High Pressure
-		3. Bernoulli Principal
+		3. [[Bernoulli Principal]]
 	4. Basic Types of Airfoils
 		1. Semi-Symmetrical
 		2. Symmetrical $\Rightarrow$ Good for both inverted and normal flight
@@ -46,7 +46,7 @@
 	4. Acquisition process
 		1. Research and Targeting
 		2. Automated Sponsorship Spreadsheet
-		3. Data gathering via OSINT
+		3. Data gathering via [[OSINT]]
 		4. Prioritization
 		5. Preparation = Tiers?
 	5. Outreached Calls
@@ -90,11 +90,11 @@
 			1. 3D Printed Airframe
 			2. Carbon Fiber Manufacturing
 		2. Fixed Wings
-			1. Foam Board and Balsa Cutting
-			2. Soldering
-			3. Hot Wiring
+			1. [[Foam Board]] and [[Balsa Cutting]]
+			2. [[Soldering]]
+			3. [[Hot Wiring]]
 		3. In House Manufacturing
-		4. VTOL
+		4. [[VTOL]]
 		5. Payloads
 		6. Trainer Multi Rotors
 4. Design
