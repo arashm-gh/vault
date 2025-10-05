@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Reading List.md",
+                "file": "Reading.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -22,7 +22,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Reading List"
+              "title": "Reading"
             }
           },
           {
@@ -269,11 +269,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a1ea55727e548bb1",
+  "active": "59e2dc219c3824bf",
   "lastOpenFiles": [
     "learning/mathematics/Calculus I.md",
     "Untitled.md",
-    "Reading List.md",
+    "Reading.md",
     "LICENSE.md",
     "diary/public/TUIs.md",
     "diary/public",
