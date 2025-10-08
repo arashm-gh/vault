@@ -8,3 +8,5 @@
 6. " $x \hookrightarrow y$ " means " $y$ " is/are **example(s)** of " $x$ ".
 7. " $x \triangleright y$ " means " $y$ " is/are **application(s)** of " $x$ ".
 	1. $\hookrightarrow$ "Wood $\triangleright$ Fuel" $\Rightarrow$ Fuel is a use/application of Wood.
+8. " $[\,[\,x\,]\,]$ " means " $x$ " has/will have it's own note
+	1. $\rightsquigarrow$ Format for links in Obsidian

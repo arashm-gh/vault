@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b59901adfd0c3c49",
+        "id": "0c00297e96696e09",
         "type": "tabs",
         "children": [
           {
-            "id": "a1ea55727e548bb1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Reading.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "3370cdc3b04faa76",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Reading.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "bf840b9725d855bc",
+            "id": "ec109e1cad0aaa4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/mathematics/Calculus I.md",
+                "file": "university/lectures/CH161/CH161-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus I"
+              "title": "CH161-6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,44 +237,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3370cdc3b04faa76",
+  "active": "ec109e1cad0aaa4b",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE.md",
+    "learning/Formatting for Notes.md",
+    "university/lectures/CH161/CH161-6.md",
+    "university/lectures/HM101/HM101-11.md",
+    "learning/psychology/ARK Framework.md",
+    "learning/mathematics/Linearization.md",
+    "university/lectures/MT101/MT101-15.md",
+    "university/lectures/Study Plan.md",
+    "university/lectures/MT101/MT101-14.md",
+    "university/lectures/CS101/CS101-12.md",
+    "learning/games/Game Programming Gems Volume 6.md",
+    "university/lectures/CS101/CS101-10.md",
+    "university/lectures/CS101/CS101-11.md",
+    "university/team_swift/Team VTOL.md",
+    "university/team_swift/Automation.md",
+    "university/lectures/MM141/MM141-5.md",
+    "university/lectures/CH101/CH101-10.md",
     "diary/personal/Study of Mouthwashing.md",
-    "Reading.md",
-    "learning/mathematics/Calculus I.md",
-    "Untitled.md",
-    "diary/public/TUIs.md",
-    "diary/public",
-    "learning/material_science/Material Science.md",
-    "diary/personal/Untitled.md",
-    "media/articles",
-    "learning/chemistry/Applied Chemistry, Environment, and Climate Change.md",
+    "diary/personal/Three School Days.md",
     "Chemistry.md",
-    "learning/fashion/Thinking Through Fashion.md",
-    "media/books/Literary Theory An Introduction.md",
-    "media/games/Mouthwashing.md",
-    "learning/games/The Art of Game Design A Book of Lenses.md",
-    "learning/fashion/The Language of Fashion.md",
-    "learning/games/Video Game.md",
+    "diary/personal/Someone called me Isaac Newton.md",
+    "diary/personal/Selection of experience for memory by hippocampal sharp wave ripples.md",
+    "diary/personal/Quizzes at GIKI.md",
+    "diary/personal/Monopoly Balatro Game.md",
+    "diary/personal/List of gifts.md",
+    "diary/personal/I don't know much CS.md",
+    "diary/personal/I don't know how to reply to her address request..md",
+    "learning/uiux",
+    "diary/public",
+    "media/articles",
     "media/games/Mouthwashing.mdxpIKYM.bck",
     "media/games/Mouthwashing.mdcDur2s.bck",
     "media/games/Mouthwashing.mdV9Fg3I.bck",
-    "university/lectures/HM101/HM101-10.md",
-    "university/team_swift/Swift Notes.md",
-    "university/team_swift/Swift Notes OBS.md",
-    "university/lectures/CH161/CH161-5.md",
     "university/personal",
     "university/team_swift",
     "university",
-    "university/lectures/MM101/MM101-10.md",
-    "university/lectures/MM101/MM101-9.md",
-    "learning/literature/Narration Situations.md",
-    "university/lectures/Study Plan.md",
-    "university/lectures/CH101/CH101-9.md",
     "lectures/CH101/Untitled",
-    "media/manim/learning/main.pydLFqDU.bck",
     "media/images/Critical Angle of Attack on an Airfoil - Video.png",
     "media/images/Diagram of Angle of Attack on an Airfoil - Video.png",
     "Pasted image 20250923121151.png",

@@ -27,6 +27,7 @@ kanban-plugin: board
 - [ ] Real-Time Rendering
 - [ ] Notes from the Underground
 - [ ] The Great Gatsby
+- [ ] Real-Time Cameras
 
 
 ## Reading
