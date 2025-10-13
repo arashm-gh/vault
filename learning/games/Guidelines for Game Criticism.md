@@ -1,3 +1,4 @@
+#Media #Games 
 1. Play
 	1. Take notes
 	2. Use Walkthroughs

@@ -22,7 +22,7 @@ Jimmy begins to hallucinate that the ship is a maze, finding himself in a gravey
 	2. [[Elijah Gonzalez]] of Paste said they "invite us to imagine the finer details for ourselves".
 	3. [[Leon Hurley]] of [[GamesRadar+]] wrote that "[[Mouthwashing|Mouthwashing's]] low poly horror stylings hide a [[Triple A]] [[Art Direction]]".[33]
 	4. [[Keith Stuart]] of [[The Guardian]] praised the game's visual style for its ability to generate unease in the player, comparing it to the work of [[Surrealist Filmmakers]] [[David Lynch]] and [[Dario Argento]].[29]
-	5. Writing for [[Hardcore Gamer]], [[Kyle LeClair]] likened the graphics to [[Fifth Generation Video Game Consoles]], arguing that they complement the Tulpar's retro style.[27]
+	5. Writing for [[Hardcore Gamer]], [[Kyle LeClair]] likened the graphics to the [[Fifth Generation of Consoles]], arguing that they complement the Tulpar's retro style.[27]
 	6. This comparison to fifth generation titles, particularly those of the original [[PlayStation (console)]]
 	7. [[Harold Goldberg]] of [[The New York Times]]
     8. [[Ronny Barrier]] of [[IGN]]

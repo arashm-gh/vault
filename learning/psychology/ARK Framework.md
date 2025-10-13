@@ -1,4 +1,4 @@
-#Psychology 
+#Psychology #Lecture 
 # Anticipate
 1. Before Lecture
 2. 15 Minute Free-Flight Check

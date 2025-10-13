@@ -28,6 +28,7 @@ kanban-plugin: board
 - [ ] Notes from the Underground
 - [ ] The Great Gatsby
 - [ ] Real-Time Cameras
+- [ ] The Stranger
 
 
 ## Reading
@@ -35,7 +36,7 @@ kanban-plugin: board
 - [ ] In the Blink of an Eye
 - [ ] Material Science Chapter 2.1
 - [ ] Mathematics Chapter 1.2
-- [ ] New Yorker Oct 5th 2025
+- [ ] New Yorker Oct 10th 2025
 
 
 ## Read
