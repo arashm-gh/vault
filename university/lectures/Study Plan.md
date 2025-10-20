@@ -11,7 +11,7 @@
 | IF101L       | 1            | 2           | Innovation and Makers I                                |
 | MM101        | 2            | 4           | [[Material Science]]                                   |
 | MM141        | 1            | 2           | Material Science and Nanotechnology LAB                |
-| MT101        | 3            | 6           | [[Calculus I]]                                        |
+| MT101        | 3            | 6           | [[Thomas Calculus 14th Edition]]                                        |
 | TOTAL        | (15)         | 30          |                                                        |
 I'm gonna be mostly busy from 5am to 5pm ($12$ hours of the day) and sleep from 10am to 5am ($7$ hours) this leaves $~5$ hours of free time for the workweek and $17$ hours for Saturday, Sunday.
 Realistically I'll only be studying for a maximum of $2$ hours from Monday to Friday which means $30 - (5 \times 2) = 20$ hours for the weekend which means $10$ hours, which is more than unmanageable.
