@@ -26,4 +26,26 @@
 		1. Evaluate $f(a)$ and $f(b)$
 		2. Find all critical points ($c$) over $(a,b)$ and calculate $f(c)$ for each
 		3. Find the smallest and largest values of this group
-6. 
+# The Mean Value Theorem
+1. **Rolle's Theorem** $\coloneqq$ $f$ for $[a,b]$ where $a = b$, $c \in (a,b)$  where $f'(c) = 0$
+2. **Mean Value Theorem** $\coloneqq$  $f$ for $[a,b]$, there exists $f'(c) = \frac{f(b)-f(a)}{b-a}$ where $c \in (a,b)$
+	1. $f'(x) = 0$ for $x \in [a,b]$ then $f(x) = C$
+	2. $f'(x) = g'(x)$ for $x \in [a,b]$ then $f(x) = g(x) + C$
+	3. If $f'(x) > 0$ for $x \in (a,b)$ then $f$ is increasing over $[a,b]$ and vice versa
+# Derivatives and the Shape of a Graph
+1. First Derivative Test
+	1. $f(x)$ where $f'(c) = 0$ or $undefined$. if $f' > 0$ when $x < c$ and $f' < 0$ when $x > c$ then it is a local maxima
+	2. $f(x)$ where $f'(c) = 0$ or $undefined$. if $f' < 0$ when $x < c$ and $f' > 0$ when $x > c$ then it is a local minima
+2. when $f' \to \infty$, curve is concave up 
+3. when $f' \to 0$, curve is concave down
+4. $f''(x) > 0$ for $x \in I$ then $f$ is concave up over $I$
+5. $f''(x) < 0$ for $x \in I$ then $f$ is concave down over $I$
+6. Inflection point $\coloneqq$ Change in concavity
+7. Second Derivative Test
+	1. $f''(c) > 0 \Rightarrow$ Local Minimum
+	2. $f''(c) < 0 \Rightarrow$ Local Maxima
+	3. $f''(c) = 0 \Rightarrow$ Inconclusive
+# Limits at Infinity
+> [!info] TODO
+# L’Hôpital’s Rule
+1. $$\lim_{x\to a}\frac{f(x)}{g(x)}$$ where $$\lim_{x\to a}f(x) = 0, \lim_{x\to a}g(x) = 0\,\,OR\,\,\lim_{x\to a}f(x) = \pm\infty, \lim_{x\to a}g(x) = \pm \infty$$ then $$\lim_{x \to a}\frac{f(x)}{g(x)} = \lim_{x \to a}\frac{f'(x)}{g'(x)}$$

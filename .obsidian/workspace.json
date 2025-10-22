@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/lectures/IF101L/IF101-6.md",
+                "file": "university/lectures/MT101/MT101-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IF101-6"
+              "title": "MT101-19"
             }
           }
         ]
@@ -239,10 +239,17 @@
   },
   "active": "0faba727cb2cbe2d",
   "lastOpenFiles": [
-    "learning/openstax/Openstax.md",
+    "learning/chemistry/API gravity.md",
+    "university/lectures/MT101/MT101-19.md",
+    "learning/chemistry/Pour Point.md",
+    "university/lectures/CS101/CS101-14.md",
+    "learning/mathematics/calculus-volume1/Applications of Derivates.md",
+    "learning/mathematics/calculus-volume1/Calculus Volume 1.md",
+    "learning/mathematics/calculus-volume1/Functions and Graphs.md",
+    "diary/personal/Study of Mouthwashing.md",
     "university/lectures/IF101L/IF101-6.md",
+    "learning/openstax/Openstax.md",
     "learning/chemistry/Aniline Point.md",
-    "Pour Point.md",
     "learning/chemistry/Cloud Point.md",
     "learning/chemistry/Fire Point.md",
     "learning/chemistry/Flash Point.md",
@@ -251,21 +258,14 @@
     "university/team_swift/PDR Meeting.md",
     "learning/ecology",
     "learning/mathematics/Fermat's Theorem.md",
-    "learning/mathematics/Applications of Derivates.md",
     "learning/mathematics/Rules of Derivation.md",
     "learning/mathematics/Linearization.md",
-    "learning/mathematics/calculus-volume1/Calculus Volume 1.md",
-    "learning/mathematics/calculus-volume1/Functions and Graphs.md",
     "university/lectures/MT101/MT101-18.md",
     "learning/mathematics/Thomas Calculus 14th Edition.md",
     "university/lectures/MM101/MM101-9.md",
     "diary/personal/Three School Days.md",
     "diary/personal/Using the working of an Organic Neural Network to make an Artificial Neural Network.md",
     "diary/personal/The Missus.md",
-    "diary/personal/The Breakup.md",
-    "diary/personal/Study of Mouthwashing.md",
-    "diary/personal/Someone called me Isaac Newton.md",
-    "diary/personal/Selection of experience for memory by hippocampal sharp wave ripples.md",
     "learning/uiux",
     "diary/public",
     "media/articles",
