@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/lectures/Semester 1/CH101/CH101-17.md",
+                "file": "university/team_swift/Sponsorship Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CH101-17"
+              "title": "Sponsorship Meeting"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04556ac5df7e6e3b",
@@ -284,12 +285,16 @@
   },
   "active": "4081f0357416dad9",
   "lastOpenFiles": [
-    "university/lectures/Semester 1/MT101/MT101-13.md",
+    "university/personal/Research Opportunity.md",
+    "university/team_swift/Sponsorship Meeting.md",
+    "university/lectures/Semester 1/CS101/CS101-16.md",
     "university/lectures/Semester 1/CH101/CH101-17.md",
+    "university/personal/Study Plan - S1- P2.md",
+    "university/lectures/Semester 1/CH101/CH101-16.md",
+    "university/lectures/Semester 1/MT101/MT101-13.md",
     "university/lectures/Semester 1/MT101/MT101-22.md",
     "university/lectures/Semester 1/MT101/MT101-2.md",
     "university/lectures/Semester 1/MT101/MT101-1.md",
-    "university/personal/Study Plan - S1- P2.md",
     "university/lectures/Semester 1/MM101/MM101-15.md",
     "university/personal/Study Plan - S1- P1.md",
     "learning/chemistry/NERNST Equation.md",
@@ -304,12 +309,8 @@
     "logs/Film Log.md",
     "README.md",
     "university/lectures/Semester 1/MM141/MM141-7.md",
-    "university/lectures/Semester 1/CH101/CH101-16.md",
     "university/lectures/Semester 1/CH101/CH101-15.md",
     "university/lectures/Semester 1/CH101/CH101-14.md",
-    "university/lectures/Semester 1/CH101/CH101-12.md",
-    "university/lectures/Semester 1/CH101/CH101-10.md",
-    "university/lectures/Semester 1/CH101/CH101-9.md",
     "university/lectures/Semester 1",
     "learning/ecology",
     "learning/uiux",
