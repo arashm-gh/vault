@@ -3,7 +3,8 @@
   "accentColor": "#707070",
   "interfaceFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "textFontFamily": "JetBrains Mono",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "baseFontSizeAction": true
 }

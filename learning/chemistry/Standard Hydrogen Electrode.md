@@ -19,4 +19,3 @@
 	2. [[Platinum]] gives [[Hydrogen]] electrons 
 	3. [[Hydrogen]] Ions turn into [[Hydrogen]] atoms
 	4. [[Hydrogen]] atoms bond together
-2. 

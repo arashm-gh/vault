@@ -81,7 +81,7 @@
 	1. Need to find new and economical energy sources
 		1. $\hookrightarrow$
 			1. [[Solar Cell]]
-			2. [[Lithium Ion Batterie]]
+			2. [[Lithium Ion Battery]]
 			3. Materials for [[Automobiles]], [[Aeronautics]], [[Trains]], etc.
 			4. [[Hydrogen Fuel Cell]]
 			5. [[Nuclear Energy]]
