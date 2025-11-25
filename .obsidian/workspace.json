@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university/team_swift/PDR Meeting.md",
+                "file": "university/team_swift/Design Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PDR Meeting"
+              "title": "Design Meeting"
             }
           }
         ]
@@ -269,8 +269,11 @@
   },
   "active": "bd6672b3b2769fde",
   "lastOpenFiles": [
+    "university/team_swift/Design Meeting.md",
+    "Pasted image 20251125221412.png",
     "university/team_swift/PAK UAS 2025.md",
     "university/team_swift/PDR Meeting.md",
+    "university/team_swift/PDR Meeting 2.md",
     "university/lectures/Semester 1/MT101/MT101-24.md",
     "L.md",
     "Integrals.md",
@@ -292,9 +295,6 @@
     "university/lectures/Semester 1/MM101/MM101-18.md",
     "learning/biology/Openstax Biology 2e.md",
     "learning/biology/Cellulose.md",
-    "learning/biology/Chitin.md",
-    "learning/biology/Glycogen.md",
-    "diary/personal/Oils.md",
     "university/lectures/Semester 1",
     "learning/ecology",
     "learning/uiux",
@@ -314,7 +314,6 @@
     "media/images/Formation of Crystals in Materials - Textbook.png",
     "media/images/Basic Flowchart - Self Made.png",
     "media/images/Atomic Bond Energy and Forces in Materials Chart - Textbook.png",
-    "media/images/Ashby chart for Material Categories - Textbook.png",
     "Untitled.canvas"
   ]
 }
