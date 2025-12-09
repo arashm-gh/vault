@@ -1,0 +1,5 @@
+#Computer_Science #Philosophy 
+# Chapter 1: Building Abstractions with Procedures
+1. The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. e second is bringing two ideas, whether simple or complex, together, and seing them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made. - John Locke, An Essay Concerning Human Understanding (1690)
+2. • primitive expressions, which represent the simplest entities the language is concerned with, • means of combination, by which compound elements are built from simpler ones, and • means of abstraction, by which compound elements can be named and manipulated as units.
+3. Syntactic sugar causes cancer of the semicolon.

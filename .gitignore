@@ -1,4 +1,5 @@
 .gitignore
+.trash
 .obsidian
 people/personal/*
 diary/personal/*

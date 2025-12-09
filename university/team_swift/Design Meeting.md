@@ -23,7 +23,7 @@
 	1. $1$ Motor
 		1. Look at motor datasheet
 		2. 10-12S (Lipo Voltage Rating)
-		3. ![[Pasted image 20251125221412.png]]
+		3. ![[General Thrust Equation.png]]
 		4. We picked $21\times10$
 		5. **How did we get the motor they chose?**
 			1. [Motor Website Link](https://store.tmotor.com/product/at7215-fixed-wing-motor.html)
